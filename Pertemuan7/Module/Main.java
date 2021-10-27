@@ -19,12 +19,12 @@ class Main {
  
         System.out.println("\n======================================================================");
  
-        // Pemanggilan Object Kelinci dengan Linked List
+        // Pemanggilan Object Sepedah dengan Linked List
         LinkedList<Sepedah> sepedahLokal = new LinkedList<Sepedah>();
  
         for (int i = 0; i < 1; i++) {
  
-            // Pemanggilan Object Kelinci di looping for
+            // Pemanggilan Object Sepedah di looping for
             Sepedah mySepedah = new Sepedah();
  
             System.out.print("Tipe sepedah : ");
